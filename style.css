@@ -1,0 +1,278 @@
+*{
+    margin:0px;
+}
+.header{
+    width:100%;
+    height:60px;
+    background-color: black;
+    display:inline-block;
+    
+}
+.container{
+    height:100%;
+    width:80%;
+
+    margin-left:10%;
+    font-size: 0px;
+    display:inline-block;
+}
+.logo{
+    height:100%;
+    width:20%;
+    
+    font-size: 40px;
+    display:inline-block;
+    line-height: 60px;
+    font-family:Segoe UI;
+    color: white;
+    text-align: center;
+}
+.navigation{
+    height:100%;
+    width:50%;
+    margin-left:30%;
+
+    display:inline-block;
+    vertical-align:top;
+    font-size:0px;
+}
+.nav{
+    height:100%;
+    width:100%; 
+    color: white;
+    display:inline-block;
+    font-size:0px;
+}
+.list{
+    height:100%;
+    width:25%;
+    display:inline-block;
+    vertical-align: top;
+    color:white;
+    font-size:16px;
+    line-height:60px;
+
+}
+.banner{
+    height: 500px;
+    width:100%;
+}
+.banner_img{
+    height:100%;
+    width:100%;
+}
+.dishesh{
+    height: 400px;
+    width:100%;
+    background-color: rgb(198, 174, 174);
+    padding-top:50px;
+    padding-bottom:50px;
+}
+.dishesh_container{
+    height:400px;
+    width:80%;
+    margin-left: 10%;
+    font-size: 0px;
+    vertical-align: top;
+    
+}
+.dish{
+    height: 100%;
+    width:20%;
+    display: inline-block;
+    margin-left:4%;
+    border-radius:20px;
+    vertical-align: top;
+    overflow:hidden;
+
+}
+.dish_img{
+    height: 50%;
+    width:100%;
+}
+.dish_info{
+    height:50%;
+    width: 100%;
+    padding: 10px;
+    background-color: white;
+    box-sizing: border-box;
+
+}
+.dish_image{
+    height:200px;
+    width:100%;
+}
+.dish_info{
+    font-size:14px;
+}
+.button{
+    margin-top: 20px;
+    padding: 10px;
+    background-color: rgb(45, 138, 163);
+    border-radius:10px;
+    text-align:center;
+    border: none;
+    font-size: 19px;
+    cursor: pointer;
+}
+.button:active{
+    background-color: blue;
+}
+.about{
+    height: 400px;
+    width:100%;
+    background-color: rgb(127, 123, 123);
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.about_container{
+    height:400px;
+    width:80%;
+    margin-left:10%;
+    font-size:0px;
+}
+.about_image{
+    height:100%;
+    width:50%;
+    display: inline-block;
+
+
+}
+.img{
+    height:100%;
+    width:100%;
+}
+.about_text{
+    height:100%;
+    width:50%;
+    background-color:white;
+    display: inline-block;
+    vertical-align: top;
+    box-sizing: border-box;
+    padding: 20px;
+
+}
+
+
+.about_para{
+    height: 100%;
+    font-size: 15px;
+    overflow: hidden;
+
+}
+.title{
+    font-size: 20px;
+    font-weight: bold;
+}
+.gallery{
+    height: 500px;
+    width:100%;
+
+}
+.gallery_top{
+    height: 50%;
+    width: 100%;
+    /* background-color: blueviolet; */
+    font-size: 0px;
+
+}
+.gallery_bottom{
+    height:50%;
+    width:100%;
+    margin-top:0.2%;
+    /* background-color: rgb(89, 226, 43); */
+    font-size: 0px;
+
+}
+.gallery_img{
+    height:100%;
+    width:24.75%;
+    margin-left:0.2%;
+    font-size: 0px;
+    /* background-color: aqua; */
+    display: inline-block;
+}
+.gall_img{
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+}
+.form{
+    height: 400px;
+    width:100%;
+
+    padding-top:50px;
+    padding-bottom:100px;
+    background-color: rgb(119, 119, 134);
+
+}
+.form_info{
+    height:100%;
+    width: 50%;
+    background-color: blanchedalmond;
+    margin-left: 25%;
+    border-radius: 20px;
+    padding:20px;
+    overflow: hidden;
+    
+}
+.form_in{
+    padding: 5px 10px;
+    margin: 10px;
+    width:95%;
+    font-size: 16px;
+    border-style:inset;
+} 
+.footer{
+    height:300px;
+    width: 100%;
+    background-color: black;
+    padding-top:5%;
+
+}
+.foot{
+    height:80%;
+    width:80%;
+    margin-left: 10%;
+    /* background-color: blue; */
+    display: inline-block;
+    
+
+}
+.foot_sec{
+    height:100%;
+    width:30%;
+    margin-left: 2.25%;
+    /* background-color: blueviolet; */
+    display:inline-block;
+    vertical-align: top;
+    padding: 20px;
+    box-sizing: border-box;
+}
+.button_f{
+    background-color: rgba(84, 159, 159, 0.823);
+    width: 100%;
+    height:40px;
+    font-size:19px;
+    cursor: pointer;
+    margin-top: 10px;
+    border-radius:10px;
+    border: none;
+}
+.button_f:active{
+    background-color: blue;
+}
+.map{
+    height:80%;
+    width:100%;
+}
+.title1{
+    font-size:50px;
+    color: aliceblue;
+}
+.abo{
+    color: azure;
+}
+.tit{
+    color: azure;
+}
